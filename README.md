@@ -22,3 +22,4 @@ This project is an exercise in using existing frameworks and using ActiveRecord.
 # Model-skeleton-and-active-record-project
 # model-skeleton-project
 # model-skeleton-project
+# model_skeleton_project
