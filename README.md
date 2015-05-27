@@ -1,13 +1,4 @@
-This folder structure should be suitable for starting a project that uses a database:
-
-* Fork this repo
-* Clone this repo
-* `rake generate:migration <NAME>` to create a migration (Don't include the `<` `>` in your name, it should also start with a capital)
-* `rake db:migrate` to run the migration and update the database
-* Create models in lib that subclass `ActiveRecord::Base`
-* ... ?
-* Profit
-
+This project is an exercise in using existing frameworks and using ActiveRecord.
 
 ## Rundown
 
@@ -26,3 +17,4 @@ This folder structure should be suitable for starting a project that uses a data
 └── lib                 # Your ruby code (models, etc.) should go here
     └── all.rb          # Require this file to auto-require _all_ `.rb` files in `lib`
 ```
+# Model-skeleton-and-active-record-project
