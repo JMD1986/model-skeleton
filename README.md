@@ -20,3 +20,4 @@ This project is an exercise in using existing frameworks and using ActiveRecord.
 # Model-skeleton-and-active-record-project
 # Model-skeleton-and-active-record-project
 # Model-skeleton-and-active-record-project
+# model-skeleton-project
