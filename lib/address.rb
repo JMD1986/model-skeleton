@@ -1,2 +1,2 @@
-class Address < ActiveRecond::Base
+class Address <ActiveRecord::Base
 end
